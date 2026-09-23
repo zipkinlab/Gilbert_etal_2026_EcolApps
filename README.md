@@ -2,6 +2,7 @@
 
 ### [Neil A. Gilbert](https://gilbertecology.com), [Peter J. Williams](https://pwilliamsecology.com/), [Daren J. Carlson](https://www.researchgate.net/profile/Daren-Carlson), Robert M. Dunlap, [Mike Worland](https://www.researchgate.net/profile/Mike-Worland-2), [Christopher S. Jennelle](https://scholar.google.com/citations?user=ZK5L4g0AAAAJ&hl=en), [Elise F. Zipkin](https://zipkinlab.org/)
 
+### Publication DOI: [![DOI](https://doi.org/10.1002/eap.70298)](https://doi.org/10.1002/eap.70298)
 ### Data/code DOI: [![DOI](https://zenodo.org/badge/987268379.svg)](https://doi.org/10.5281/zenodo.20617878)
 __________________________________________________________________________________________________________________________________________
 
